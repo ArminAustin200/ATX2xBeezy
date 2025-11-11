@@ -1,5 +1,5 @@
 # ATX2xBeezy
-This project allows you to convert an ATX PSU to work as a 213W XB Power Supply.
+This project allows you to convert an ATX PSU to work as a 213W XB Power Supply. (This specific board is designed to fit into the Seasonic SS-350TGM)
 
 Features:
 - 3A current limiting on the 5V rail to protect console/sidecar circuitry from short circuits or over current scenarios (based around the [TCKE920NL](https://toshiba.semicon-storage.com/info/TCKE920NL_datasheet_en_20250819.pdf?did=157593&prodName=TCKE920NL) IC)
